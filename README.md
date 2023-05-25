@@ -8,7 +8,9 @@ A simple way to do image to image generation using Azure Computer Vision and Azu
 3. We can generate the artificial image using this prompt with Azure Open AI and its Dall e 2 integration
 
 ## Screenshots
-
+<img src="capture1.jpg">
+<img src="capture2.jpg">
+<img src="capture3.jpg">
 
 ## Documentation
 https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview
