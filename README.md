@@ -13,7 +13,7 @@ A simple way to do image to image generation using Azure Computer Vision and Azu
 <img src="capture3.jpg">
 
 ## Documentation
-https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview
-https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview
+- https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview
+- https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview
 
 25-May-2022 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
